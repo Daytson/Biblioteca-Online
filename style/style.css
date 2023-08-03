@@ -1,0 +1,22 @@
+#caja {
+    height: 100vh;
+}
+
+#cajita {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+}
+
+div#numero {
+    border: 1px solid black;
+    padding: 20px;
+    width: 100px;
+    position: absolute;
+    top: 20%;
+    left: 40%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+}
